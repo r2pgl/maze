@@ -1,0 +1,2 @@
+# maze
+Amazing maze musings
